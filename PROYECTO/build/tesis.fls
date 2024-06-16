@@ -1,0 +1,225 @@
+PWD c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO
+INPUT C:\Users\andrew\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\tesis.tex
+OUTPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.log
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.aux
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.aux
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.aux
+OUTPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.aux
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+OUTPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.bcf
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.bbl
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.bbl
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.bbl
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.bbl
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.bbl
+INPUT .\frontmatter\frontmatter.tex
+INPUT .\frontmatter\frontmatter.tex
+INPUT .\frontmatter\frontmatter.tex
+INPUT .\frontmatter\frontmatter.tex
+INPUT frontmatter\frontmatter.tex
+INPUT .\frontmatter\caratula.tex
+INPUT .\frontmatter\caratula.tex
+INPUT .\frontmatter\caratula.tex
+INPUT .\frontmatter\caratula.tex
+INPUT frontmatter\caratula.tex
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT .\frontmatter\UNIlogo.png
+INPUT .\frontmatter\UNIlogo.png
+INPUT .\frontmatter\UNIlogo.png
+INPUT .\frontmatter\UNIlogo.png
+OUTPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.pdf
+INPUT .\frontmatter\UNIlogo.png
+INPUT .\frontmatter\UNIlogo.png
+INPUT .\frontmatter\UNIlogo.png
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\andrew\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.toc
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.toc
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.toc
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+OUTPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.toc
+INPUT .\mainmatter\Planteamiento.tex
+INPUT .\mainmatter\Planteamiento.tex
+INPUT .\mainmatter\Planteamiento.tex
+INPUT .\mainmatter\Planteamiento.tex
+INPUT mainmatter\Planteamiento.tex
+INPUT .\mainmatter\Marco.tex
+INPUT .\mainmatter\Marco.tex
+INPUT .\mainmatter\Marco.tex
+INPUT .\mainmatter\Marco.tex
+INPUT mainmatter\Marco.tex
+INPUT .\mainmatter\Diseño.tex
+INPUT .\mainmatter\Diseño.tex
+INPUT .\mainmatter\Diseño.tex
+INPUT .\mainmatter\Diseño.tex
+INPUT mainmatter\Diseño.tex
+INPUT .\mainmatter\Cronograma.tex
+INPUT .\mainmatter\Cronograma.tex
+INPUT .\mainmatter\Cronograma.tex
+INPUT .\mainmatter\Cronograma.tex
+INPUT mainmatter\Cronograma.tex
+INPUT .\mainmatter\Presupuesto.tex
+INPUT .\mainmatter\Presupuesto.tex
+INPUT .\mainmatter\Presupuesto.tex
+INPUT .\mainmatter\Presupuesto.tex
+INPUT mainmatter\Presupuesto.tex
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.aux
+INPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.run.xml
+OUTPUT c:\Users\andrew\Documents\UNIVERSIDAD\SEPTIMO_CICLO\METODOLOGIA DE LA INVESTIGACION\Proyecto-de-Investigacion\PROYECTO\build\tesis.run.xml
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\andrew\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb

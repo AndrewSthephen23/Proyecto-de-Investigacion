@@ -1,0 +1,747 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{anderson2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1bd8661ae7acb13559143b471d3259e8}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi Q.},
+           giveni={P\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Research Publishing}%
+      }
+      \strng{namehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{fullhash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{fullhashraw}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{bibnamehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authorbibnamehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authornamehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authorfullhash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authorfullhashraw}{1bd8661ae7acb13559143b471d3259e8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Writing Your Research Report: A Practical Guide}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{brown2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=575374ac6a30130292d99b1cac7009af}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Statistics Press}%
+      }
+      \strng{namehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{fullhash}{575374ac6a30130292d99b1cac7009af}
+      \strng{fullhashraw}{575374ac6a30130292d99b1cac7009af}
+      \strng{bibnamehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authorbibnamehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authornamehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authorfullhash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authorfullhashraw}{575374ac6a30130292d99b1cac7009af}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Statistical Analysis for Social Sciences}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{davis2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75aa94d96ded2359bed08b2eda552f93}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presentation Books}%
+      }
+      \strng{namehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{fullhash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{fullhashraw}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{bibnamehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authorbibnamehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authornamehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authorfullhash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authorfullhashraw}{75aa94d96ded2359bed08b2eda552f93}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effective Presentation Skills for Researchers}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{fireeye2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9144c2bbe912a2d14ca648c27c9bd456}{%
+           family={{FireEye}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{fullhash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{fullhashraw}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{bibnamehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authorbibnamehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authornamehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authorfullhash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authorfullhashraw}{9144c2bbe912a2d14ca648c27c9bd456}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal Name or Book Title}
+      \field{number}{Issue number}
+      \field{title}{Title of the article/book chapter}
+      \field{volume}{Volume number}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{Page range}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb DOI number if available
+      \endverb
+    \endentry
+    \entry{ibm2020}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f28aca7bed64f87dc257f0a8261dccf}{%
+           family={{IBM Corp.}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{fullhash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{fullhashraw}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{bibnamehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authorbibnamehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authornamehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authorfullhash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authorfullhashraw}{7f28aca7bed64f87dc257f0a8261dccf}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Computer software]}
+      \field{title}{IBM SPSS Statistics for Windows (Version 27.0)}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ibm.com/spss
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/spss
+      \endverb
+    \endentry
+    \entry{jakobsson2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16e7baa4ffe4fce265292eb139a29c0b}{%
+           family={Jakobsson},
+           familyi={J\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78fc0a7fec08464678083c72c3840121}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{fullhash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{fullhashraw}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{bibnamehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authorbibnamehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authornamehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authorfullhash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authorfullhashraw}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal Name or Book Title}
+      \field{number}{Issue number}
+      \field{title}{Title of the article/book chapter}
+      \field{volume}{Volume number}
+      \field{year}{2007}
+      \true{nocite}
+      \field{pages}{Page range}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb DOI number if available
+      \endverb
+    \endentry
+    \entry{johnson2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d367dd583eebff85ed2f7d32b707288}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{fullhash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{fullhashraw}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{bibnamehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authorbibnamehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authornamehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authorfullhash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authorfullhashraw}{1d367dd583eebff85ed2f7d32b707288}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theoretical Frameworks in Social Science Research}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{mcafee2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a956ecb1af42cd50dc2ee79e9e563806}{%
+           family={McAfee},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{fullhash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{fullhashraw}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{bibnamehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authorbibnamehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authornamehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authorfullhash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authorfullhashraw}{a956ecb1af42cd50dc2ee79e9e563806}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Title of the report or article}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.mcafee.com
+      \endverb
+      \verb{url}
+      \verb https://www.mcafee.com
+      \endverb
+    \endentry
+    \entry{smith2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55fe8d656154b2467c55fddd9ca443e8}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{fullhash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{fullhashraw}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{bibnamehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authorbibnamehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authornamehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authorfullhash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authorfullhashraw}{55fe8d656154b2467c55fddd9ca443e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Journal}
+      \field{number}{3}
+      \field{title}{Identifying Research Problems}
+      \field{volume}{12}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{45\bibrangedash 67}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1234/rj.2020.003
+      \endverb
+    \endentry
+    \entry{taylor2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f4b04c6813bfeac634635e9c8b94d0e}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Publishing}%
+      }
+      \strng{namehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{fullhash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{fullhashraw}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{bibnamehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authorbibnamehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authornamehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authorfullhash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authorfullhashraw}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Research Methods: Data Collection Techniques}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{williams2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=639787edcbbf75317e58dc97de38abd5}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University Press}%
+      }
+      \strng{namehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{fullhash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{fullhashraw}{639787edcbbf75317e58dc97de38abd5}
+      \strng{bibnamehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authorbibnamehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authornamehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authorfullhash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authorfullhashraw}{639787edcbbf75317e58dc97de38abd5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Structuring Your Thesis: A Step-by-Step Guide}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{anderson2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1bd8661ae7acb13559143b471d3259e8}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi Q.},
+           giveni={P\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Research Publishing}%
+      }
+      \strng{namehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{fullhash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{fullhashraw}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{bibnamehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authorbibnamehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authornamehash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authorfullhash}{1bd8661ae7acb13559143b471d3259e8}
+      \strng{authorfullhashraw}{1bd8661ae7acb13559143b471d3259e8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Writing Your Research Report: A Practical Guide}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{brown2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=575374ac6a30130292d99b1cac7009af}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Statistics Press}%
+      }
+      \strng{namehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{fullhash}{575374ac6a30130292d99b1cac7009af}
+      \strng{fullhashraw}{575374ac6a30130292d99b1cac7009af}
+      \strng{bibnamehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authorbibnamehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authornamehash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authorfullhash}{575374ac6a30130292d99b1cac7009af}
+      \strng{authorfullhashraw}{575374ac6a30130292d99b1cac7009af}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Statistical Analysis for Social Sciences}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{davis2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75aa94d96ded2359bed08b2eda552f93}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presentation Books}%
+      }
+      \strng{namehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{fullhash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{fullhashraw}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{bibnamehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authorbibnamehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authornamehash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authorfullhash}{75aa94d96ded2359bed08b2eda552f93}
+      \strng{authorfullhashraw}{75aa94d96ded2359bed08b2eda552f93}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effective Presentation Skills for Researchers}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{fireeye2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9144c2bbe912a2d14ca648c27c9bd456}{%
+           family={{FireEye}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{fullhash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{fullhashraw}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{bibnamehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authorbibnamehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authornamehash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authorfullhash}{9144c2bbe912a2d14ca648c27c9bd456}
+      \strng{authorfullhashraw}{9144c2bbe912a2d14ca648c27c9bd456}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal Name or Book Title}
+      \field{number}{Issue number}
+      \field{title}{Title of the article/book chapter}
+      \field{volume}{Volume number}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{Page range}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb DOI number if available
+      \endverb
+    \endentry
+    \entry{ibm2020}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f28aca7bed64f87dc257f0a8261dccf}{%
+           family={{IBM Corp.}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{fullhash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{fullhashraw}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{bibnamehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authorbibnamehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authornamehash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authorfullhash}{7f28aca7bed64f87dc257f0a8261dccf}
+      \strng{authorfullhashraw}{7f28aca7bed64f87dc257f0a8261dccf}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Computer software]}
+      \field{title}{IBM SPSS Statistics for Windows (Version 27.0)}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ibm.com/spss
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/spss
+      \endverb
+    \endentry
+    \entry{jakobsson2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16e7baa4ffe4fce265292eb139a29c0b}{%
+           family={Jakobsson},
+           familyi={J\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78fc0a7fec08464678083c72c3840121}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{fullhash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{fullhashraw}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{bibnamehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authorbibnamehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authornamehash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authorfullhash}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \strng{authorfullhashraw}{a2d5d1450b51beeceba2d534e4b3aa64}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal Name or Book Title}
+      \field{number}{Issue number}
+      \field{title}{Title of the article/book chapter}
+      \field{volume}{Volume number}
+      \field{year}{2007}
+      \true{nocite}
+      \field{pages}{Page range}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb DOI number if available
+      \endverb
+    \endentry
+    \entry{johnson2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d367dd583eebff85ed2f7d32b707288}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{fullhash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{fullhashraw}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{bibnamehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authorbibnamehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authornamehash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authorfullhash}{1d367dd583eebff85ed2f7d32b707288}
+      \strng{authorfullhashraw}{1d367dd583eebff85ed2f7d32b707288}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theoretical Frameworks in Social Science Research}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{mcafee2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a956ecb1af42cd50dc2ee79e9e563806}{%
+           family={McAfee},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{fullhash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{fullhashraw}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{bibnamehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authorbibnamehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authornamehash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authorfullhash}{a956ecb1af42cd50dc2ee79e9e563806}
+      \strng{authorfullhashraw}{a956ecb1af42cd50dc2ee79e9e563806}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Title of the report or article}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.mcafee.com
+      \endverb
+      \verb{url}
+      \verb https://www.mcafee.com
+      \endverb
+    \endentry
+    \entry{smith2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55fe8d656154b2467c55fddd9ca443e8}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{fullhash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{fullhashraw}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{bibnamehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authorbibnamehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authornamehash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authorfullhash}{55fe8d656154b2467c55fddd9ca443e8}
+      \strng{authorfullhashraw}{55fe8d656154b2467c55fddd9ca443e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Journal}
+      \field{number}{3}
+      \field{title}{Identifying Research Problems}
+      \field{volume}{12}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{45\bibrangedash 67}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1234/rj.2020.003
+      \endverb
+    \endentry
+    \entry{taylor2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f4b04c6813bfeac634635e9c8b94d0e}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Publishing}%
+      }
+      \strng{namehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{fullhash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{fullhashraw}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{bibnamehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authorbibnamehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authornamehash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authorfullhash}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \strng{authorfullhashraw}{4f4b04c6813bfeac634635e9c8b94d0e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Research Methods: Data Collection Techniques}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{williams2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=639787edcbbf75317e58dc97de38abd5}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University Press}%
+      }
+      \strng{namehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{fullhash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{fullhashraw}{639787edcbbf75317e58dc97de38abd5}
+      \strng{bibnamehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authorbibnamehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authornamehash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authorfullhash}{639787edcbbf75317e58dc97de38abd5}
+      \strng{authorfullhashraw}{639787edcbbf75317e58dc97de38abd5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Structuring Your Thesis: A Step-by-Step Guide}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

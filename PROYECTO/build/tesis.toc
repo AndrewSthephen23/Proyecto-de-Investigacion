@@ -1,0 +1,32 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Planteamiento del problema}{1}{}%
+\contentsline {section}{\numberline {1.1}Descripción del problema}{1}{}%
+\contentsline {section}{\numberline {1.2}Formulación del problema}{2}{}%
+\contentsline {subsection}{\numberline {1.2.1}Pregunta principal}{2}{}%
+\contentsline {subsection}{\numberline {1.2.2}Preguntas específicas}{2}{}%
+\contentsline {section}{\numberline {1.3}Objetivos de estudio}{2}{}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo general}{2}{}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos específicos}{2}{}%
+\contentsline {section}{\numberline {1.4}Justificación}{3}{}%
+\contentsline {chapter}{\numberline {2}Marco Teórico}{4}{}%
+\contentsline {section}{\numberline {2.1}Antecedentes}{4}{}%
+\contentsline {subsection}{\numberline {2.1.1}Contexto tecnológico y social}{4}{}%
+\contentsline {subsection}{\numberline {2.1.2}Relevancia para la Investigación}{5}{}%
+\contentsline {section}{\numberline {2.2}Diseño teórico}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Teoría del phishing}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}Teoría de la Ingeniería Social}{5}{}%
+\contentsline {subsection}{\numberline {2.2.3}Teoría de ciberseguridad}{6}{}%
+\contentsline {section}{\numberline {2.3}Definición de términos}{6}{}%
+\contentsline {chapter}{\numberline {3}Diseño de la Investigación}{8}{}%
+\contentsline {section}{\numberline {3.1}Tipo de investigación}{8}{}%
+\contentsline {section}{\numberline {3.2}Diseño de investigación}{9}{}%
+\contentsline {section}{\numberline {3.3}Método de investigación}{9}{}%
+\contentsline {section}{\numberline {3.4}Población}{10}{}%
+\contentsline {section}{\numberline {3.5}Muestra}{10}{}%
+\contentsline {section}{\numberline {3.6}Campo o lugar de estudio}{11}{}%
+\contentsline {section}{\numberline {3.7}Técnicas e instrumentos de recolección de datos}{11}{}%
+\contentsline {subsection}{\numberline {3.7.1}Técnica de recopilación de datos:}{11}{}%
+\contentsline {subsection}{\numberline {3.7.2}Instrumentos de recolección de datos:}{11}{}%
+\contentsline {subsection}{\numberline {3.7.3}Consideraciones éticas:}{12}{}%
+\contentsline {chapter}{\numberline {4}Cronograma de actividades}{13}{}%
+\contentsline {chapter}{\numberline {5}Presupuesto del proyecto}{14}{}%

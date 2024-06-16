@@ -1,0 +1,53 @@
+\documentclass[12pt, a4paper]{book}
+
+% Paquetes
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage[style = apa, backend = biber]{biblatex}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+
+
+
+% Recursos bibliográficos
+\addbibresource{ref.bib}
+
+
+% Formato de página
+\geometry{a4paper, left=3.5cm,right=2.54cm,top=2.54cm,bottom=2.54cm}
+
+
+\setlength{\parindent}{2em}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt} % no line in header area
+\fancyfoot[R]{\thepage} % page number in the right footer
+\fancypagestyle{plain}{%
+  \fancyhf{} % clear all header and footer fields
+  \fancyfoot[R]{\thepage} % page number in the right footer
+}
+
+% Tesis
+\begin{document}
+
+\input{frontmatter/frontmatter}
+
+\mainmatter
+\renewcommand{\baselinestretch}{1.5} 
+\pagenumbering{arabic}
+\input{mainmatter/Planteamiento}
+\input{mainmatter/Marco}
+\input{mainmatter/Diseño}
+\input{mainmatter/Cronograma}
+\input{mainmatter/Presupuesto}
+
+\nocite{*}
+\printbibliography
+
+\end{document}
